@@ -1,6 +1,6 @@
 ## DEMO
 
-In the project directory, you can run:
+https://festive-lewin-ab351a.netlify.app/
 
 ## GITHUB
 
